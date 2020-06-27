@@ -228,8 +228,8 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Blob Blink
-  m_Speed: 2
+  m_Name: Blob Bounce
+  m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 1101473031278802066}
@@ -244,7 +244,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 0db6528374211b84b876c30c3709a168, type: 2}
+  m_Motion: {fileID: 7400000, guid: 42a83de4a5c36fd4a817be70adf936f6, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
